@@ -5,18 +5,18 @@
 }
 
 @font-face {
-  src: url(../font/netflix-sans-cufonfonts/NetflixSansRegular.ttf);
-  font-family: netflix-sans-head;
+  src: url(../font/flix-sans-cufonfonts/flixSansRegular.ttf);
+  font-family: flix-sans-head;
 }
 
 @font-face {
-  src: url(../font/netflix-sans-cufonfonts/NetflixSansLight.ttf);
-  font-family: netflix-sans;
+  src: url(../font/flix-sans-cufonfonts/flixSansLight.ttf);
+  font-family: flix-sans;
 }
 
 body,
 html {
-  font-family: "netflix-sans", Helvetica, Arial, sans-serif;
+  font-family: "flix-sans", Helvetica, Arial, sans-serif;
   font-size: 16px;
   background: #000;
 }
@@ -61,7 +61,7 @@ h3 {
     margin: 0 5%;
   }
 
-  .header .our-story-logo .svg-icon-netflix-logo {
+  .header .our-story-logo .svg-icon-flix-logo {
     width: auto;
     height: 1.5rem;
   }
@@ -226,7 +226,7 @@ h3 {
   .cross-text .hero-cross-text-h1 {
     font-size: 1.6rem;
     font-weight: 400;
-    font-family: "netflix-sans-head";
+    font-family: "flix-sans-head";
   }
 
   .cross-text .hero-cross-text-h2 {
@@ -241,20 +241,20 @@ h3 {
     margin: 0;
   }
 
-  .faq-page-netflix .collapsible-menu {
+  .faq-page-flix .collapsible-menu {
     width: 80%;
   }
 
-  .faq-page-netflix .collapsible {
+  .faq-page-flix .collapsible {
     padding: 12px;
   }
 
-  .faq-page-netflix .faq-text-h3 {
+  .faq-page-flix .faq-text-h3 {
     font-size: 1.25rem;
     font-weight: 400;
   }
 
-  .faq-page-netflix .faq-head-h1 {
+  .faq-page-flix .faq-head-h1 {
     font-size: 1.6rem;
   }
 
@@ -292,7 +292,7 @@ h3 {
     height: 45px;
   }
 
-  .header .our-story-logo .svg-icon-netflix-logo {
+  .header .our-story-logo .svg-icon-flix-logo {
     width: 6.75rem;
     height: 2rem;
   }
@@ -399,7 +399,7 @@ h3 {
   .cross-text .hero-cross-text-h1 {
     font-size: 2.5rem;
     font-weight: 400;
-    font-family: "netflix-sans-head";
+    font-family: "flix-sans-head";
   }
 
   .cross-text .hero-cross-text-h2 {
@@ -415,20 +415,20 @@ h3 {
     margin: -4%;
   }
 
-  .faq-page-netflix .collapsible-menu {
+  .faq-page-flix .collapsible-menu {
     width: 80%;
   }
 
-  .faq-page-netflix .collapsible {
+  .faq-page-flix .collapsible {
     padding: 12px;
   }
 
-  .faq-page-netflix .faq-text-h3 {
+  .faq-page-flix .faq-text-h3 {
     font-size: 1.25rem;
     font-weight: 400;
   }
 
-  .faq-page-netflix .faq-head-h1 {
+  .faq-page-flix .faq-head-h1 {
     font-size: 2.5rem;
   }
 
@@ -468,7 +468,7 @@ h3 {
   margin-right: auto;
 }
 
-.svg-icon-netflix-logo {
+.svg-icon-flix-logo {
   width: 8.375rem;
   height: 2.25rem;
 }
@@ -561,7 +561,7 @@ h3 {
   margin: 0 auto;
   line-height: 1.1;
   font-size: 3.125rem;
-  font-family: "netflix-sans-head";
+  font-family: "flix-sans-head";
   font-weight: bold;
 }
 
@@ -622,7 +622,7 @@ h3 {
   min-height: 60px;
   width: 217px;
   font-size: 1.625rem;
-  font-family: "netflix-sans";
+  font-family: "flix-sans";
   padding-top: 8px;
   padding-bottom: 8px;
   outline: none;
@@ -696,7 +696,7 @@ h3 {
   z-index: 2;
 }
 
-.netflix-video {
+.flix-video {
   position: absolute;
   z-index: 1;
   transform: translate(-50%, -50%);
@@ -880,7 +880,7 @@ h3 {
 /*---------------------------------------*/
 /*--------------FAQ PAGE------------------*/
 /*----------------------------------------*/
-.faq-page-netflix {
+.faq-page-flix {
   border-bottom: 8px solid #222;
 }
 .faq_head {
